@@ -65,12 +65,7 @@ const Hero = () => {
     <>
       <p>
         I’m a website designer specialising in designing (and occasionally building) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://andrewmichaels.com/" target="_blank" rel="noreferrer">
-          Andrew Michaels Inc
-        </a>
-        .
+        digital experiences. Currently, I’m focused on building accessible and human-centered products.
       </p>
     </>
   );
@@ -80,7 +75,7 @@ const Hero = () => {
       href="https://www.newline.co/courses/build-a-spotify-connected-app"
       target="_blank"
       rel="noreferrer">
-      Check out my course!
+      Let's Chat!
     </a>
   );
 
