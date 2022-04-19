@@ -2,7 +2,7 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Andrew Michaels | Connecting Your World',
+    title: 'Andrew Michaels | Web Designer',
     description:
       'Andrew Michaels is a website designer who specialises in designing (and occasionally building) exceptional digital experiences.',
     siteUrl: 'https://andrewmichaels.co.za', // No trailing slash allowed!
