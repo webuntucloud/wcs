@@ -262,7 +262,23 @@ const Projects = () => {
     );
   };
 
-   : (
+   return (
+    <StyledProjectsSection>
+      <h2 ref={revealTitle}>Other Noteworthy Projects</h2>
+
+      <Link className="inline-link archive-link" to="/archive" ref={revealArchiveLink}>
+        view the archive
+      </Link>
+
+      <ul className="projects-grid">
+        {prefersReducedMotion ? (
+          <>
+            {projectsToShow &&
+              projectsToShow.map(({ node }, i) => (
+                <StyledProject key={i}>{projectInner(node)}</StyledProject>
+              ))}
+          </>
+        ) : (
           <TransitionGroup component={null}>
             {projectsToShow &&
               projectsToShow.map(({ node }, i) => (
