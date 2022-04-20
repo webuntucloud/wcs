@@ -1,15 +1,12 @@
 ---
 date: '2'
-title: 'Spotify Profile'
+title: 'Coffin Kits'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+external: 'https://coffinkits.co.za/'
 tech:
-  - React
-  - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - HTML
+  - CSS
+  - JS
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+Coffin Kits is a small manufacturing and wholesale business focusing primarily on exports.
