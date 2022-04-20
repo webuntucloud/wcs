@@ -266,8 +266,8 @@ const Menu = () => {
               </ol>
             )}
 
-            <a href="/resume.pdf" className="resume-link">
-              Resume
+            <a href="https://wa.me/27671578955" className="resume-link">
+              WhatsApp Us
             </a>
           </nav>
         </StyledSidebar>
