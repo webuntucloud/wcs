@@ -8,11 +8,11 @@ module.exports = {
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/andrewstanleymichaels',
+      url: 'https://instagram.com/andrewstanleymichaels',
     },
     {
       name: 'Linkedin',
-      url: 'www.linkedin.com/in/andrewstanleymichaels',
+      url: 'https://linkedin.com/in/andrewstanleymichaels',
     },
   ],
 
