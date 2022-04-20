@@ -1,7 +1,7 @@
 ---
 date: '2'
 title: 'Tax Tech Global'
-cover: './demo.png'
+cover: './taxtechglobal.png'
 external: 'https://taxtechglobal.co.za'
 tech:
   - WordPress
