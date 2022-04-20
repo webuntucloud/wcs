@@ -105,7 +105,8 @@ const Footer = () => {
       </StyledSocialLinks>
 
         <StyledCredit tabindex="-1">
-          <div>Built &amp; Designed by Andrew Michaels. All Rights Reserved.</div>
+        <a href="#">
+          <div>Built & Designed by Andrew Michaels. All Rights Reserved.</div>
 
           
         </a>
