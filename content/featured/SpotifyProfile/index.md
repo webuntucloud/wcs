@@ -1,15 +1,10 @@
 ---
 date: '2'
-title: 'Spotify Profile'
+title: 'Tax Tech Global'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+external: 'https://taxtechglobal.co.za'
 tech:
-  - React
-  - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - WordPress
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+TAXTech Global is an independent Tax Advisory practice based in Dubai, UAE, servicing clients throughout the GCC.
