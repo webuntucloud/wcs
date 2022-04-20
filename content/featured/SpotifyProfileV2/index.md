@@ -1,7 +1,7 @@
 ---
 date: '3'
 title: 'Coffin Kits'
-cover: './course-card.png'
+cover: './coffinkits.png'
 external: 'https://coffinkits.co.za'
 tech:
   - WordPress
