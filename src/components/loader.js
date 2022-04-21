@@ -36,8 +36,6 @@ const StyledLoader = styled.div`
 `;
 
 const Loader = ({ finishLoading }) => {
-  const [isMounted, setIsMounted] = useState(false);
-
   const animate = () => {
     const loader = anime.timeline({
       complete: () => finishLoading(),
@@ -59,8 +57,8 @@ const Loader = ({ finishLoading }) => {
       })
       .add({
         targets: '#logo',
-        delay: 500,
-        duration: 300,
+        delay: 200,
+        duration: 200,
         easing: 'easeInOutQuart',
         opacity: 0,
         scale: 0.1,
@@ -74,8 +72,10 @@ const Loader = ({ finishLoading }) => {
       });
   };
 
+  const [isMounted, setIsMounted] = useState(false);
+
   useEffect(() => {
-    const timeout = setTimeout(() => setIsMounted(true), 10);
+    const timeout = setTimeout(() => setIsMounted(true), 1);
     animate();
     return () => clearTimeout(timeout);
   }, []);
