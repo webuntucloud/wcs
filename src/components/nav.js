@@ -173,8 +173,8 @@ const Nav = ({ isHome }) => {
   );
 
   const ResumeLink = (
-    <a className="resume-button" href="https://wa.me/27671578955" target="_blank" rel="noopener noreferrer">
-      WhatsApp Us
+    <a className="resume-button" href="tel:+27671578955" target="_blank" rel="noopener noreferrer">
+      Call Us!
     </a>
   );
 
