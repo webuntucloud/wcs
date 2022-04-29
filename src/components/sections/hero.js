@@ -72,10 +72,10 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="https://wa.me/27671578955"
+      href="tel:+27671578955"
       target="_blank"
       rel="noreferrer">
-      WhatsApp Us!
+      Call Us!
     </a>
   );
 
