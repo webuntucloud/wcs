@@ -10,10 +10,6 @@ module.exports = {
       name: 'Instagram',
       url: 'https://instagram.com/dremichaels',
     },
-    {
-      name: 'Linkedin',
-      url: 'https://dev.to/andrewmichaels',
-    },
   ],
 
   navLinks: [
