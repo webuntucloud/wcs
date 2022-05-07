@@ -266,7 +266,7 @@ const Menu = () => {
               </ol>
             )}
 
-            <a href="tel:+27671578955" className="resume-link">
+            <a href="tel:+27 (31) 030 0818" className="resume-link">
               Call Us!
             </a>
           </nav>
