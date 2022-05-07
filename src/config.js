@@ -1,5 +1,5 @@
 module.exports = {
-  email: 'info@andrewmichaels.co.za',
+  email: 'hello@andrewmichaels.co.za',
 
   socialMedia: [
     {
