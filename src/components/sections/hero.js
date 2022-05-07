@@ -72,7 +72,7 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="tel:+27671578955"
+      href="tel:+27 31 030 0818"
       target="_blank"
       rel="noreferrer">
       Call Us!
