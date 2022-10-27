@@ -173,7 +173,7 @@ const Nav = ({ isHome }) => {
   );
 
   const ResumeLink = (
-    <a className="resume-button" href="tel:+27 (31) 030 0818" target="_blank" rel="noopener noreferrer">
+    <a className="resume-button" href="tel:+27 63 977 4523" target="_blank" rel="noopener noreferrer">
       Call Us!
     </a>
   );
