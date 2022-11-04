@@ -1,12 +1,10 @@
 ---
 date: '2'
-title: 'Coffin Kits'
+title: 'The Smartphone Trader'
 cover: './demo.png'
-external: 'https://coffinkits.co.za/'
+external: 'https://thesmartphonetrader.co.za/'
 tech:
-  - HTML
-  - CSS
-  - JS
+  - WordPress
 ---
 
-Coffin Kits is a small manufacturing and wholesale business focusing primarily on exports.
+The Smartphone Trader buys, sells and trades all brands of smartphones.
