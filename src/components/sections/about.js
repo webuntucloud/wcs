@@ -137,8 +137,8 @@ const About = () => {
           <div>
             <p>
               Hello! My name is Andrew and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2019 when I decided to try editing custom
-              HTML themes — turns out hacking together a custom reblog button taught me a lot
+              interest in web design started back in 2019 when I decided to try editing
+              HTML themes — turns out hacking together a custom website theme taught me a lot
               about HTML &amp; CSS!
             </p>
 
