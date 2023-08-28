@@ -3,12 +3,8 @@ module.exports = {
 
   socialMedia: [
     {
-      name: 'GitHub',
-      url: 'https://github.com/webuntucloudsolutions',
-    },
-    {
       name: 'Instagram',
-      url: 'https://instagram.com/webuntucloudsolutions',
+      url: 'https://instagram.com/webuntucloud',
     },
   ],
 
