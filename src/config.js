@@ -1,14 +1,14 @@
 module.exports = {
-  email: 'info@cloudmzansi.co.za',
+  email: 'info@webuntu.cloud',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/dremichaels',
+      url: 'https://github.com/webuntucloudsolutions',
     },
     {
       name: 'Instagram',
-      url: 'https://instagram.com/dremichaels',
+      url: 'https://instagram.com/webuntucloudsolutions',
     },
   ],
 

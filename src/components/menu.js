@@ -266,8 +266,8 @@ const Menu = () => {
               </ol>
             )}
 
-            <a href="tel:+27 (31) 030 0818" className="resume-link">
-              Call Us!
+            <a href="https://wa.me/27616022377" className="resume-link">
+              WhatsApp Us
             </a>
           </nav>
         </StyledSidebar>

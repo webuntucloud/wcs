@@ -2,12 +2,12 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Andrew Michaels | Web Designer',
+    title: 'Webuntu Cloud - Unleashing Digital Excellence',
     description:
       'Andrew Michaels is a website designer who specialises in designing (and occasionally building) exceptional digital experiences.',
-    siteUrl: 'https://andrewmichaels.co.za', // No trailing slash allowed!
+    siteUrl: 'https://webuntu.cloud', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    twitterUsername: '@webuntucloudsolutions',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Andrew Michaels',
-        short_name: 'Andrew Michaels',
+        name: 'Webuntu Cloud',
+        short_name: 'Webuntu Cloud',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,

@@ -1,11 +1,11 @@
 {
   "name": "v1",
-  "description": "Andrew Michaels V1",
+  "description": "Webuntu Cloud V1",
   "version": "1.0.0",
-  "author": "Andrew Michaels <info@andrewmichaels.co.za>",
+  "author": "Webuntu Cloud <info@webuntu.cloud>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/andrewstanleymichaels/"
+    "url": "https://github.com/webuntucloudsolutions/"
   },
   "keywords": [
     "gatsby"
