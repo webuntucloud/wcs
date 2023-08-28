@@ -105,11 +105,7 @@ const Footer = () => {
       </StyledSocialLinks>
 
         <StyledCredit tabindex="-1">
-        <a href="">
           <div>Copyright © 2023 Webuntu Cloud. Made with ❤️ in South Africa.</div>
-
-          
-        </a>
       </StyledCredit>
     </StyledFooter>
   );
