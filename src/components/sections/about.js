@@ -134,11 +134,9 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>
-            In the realm of innovation, Webuntu Cloud Solutions is a testament to transformative creativity and unwavering determination. Our journey began with self-taught web designers driven by a shared vision of transcending limits and leaving a lasting mark. Fueled by passion, we embarked on reshaping the digital landscape, harnessing the power of pixels to drive innovation and redefine success.
+            <p>In the realm of innovation, Webuntu Cloud Solutions is a testament to transformative creativity and unwavering determination. Our journey began with self-taught web designers driven by a shared vision of transcending limits and leaving a lasting mark. Fueled by passion, we embarked on reshaping the digital landscape, harnessing the power of pixels to drive innovation and redefine success.</p>
 
-            As an agency, we're more than just creators. We're catalysts for transformation, fostering growth within the web design community and breaking barriers. Our commitment extends to revolutionary solutions that empower clients, while our alliances amplify voices for positive change. Our journey redefines digital potential, paving the way for a future where pixels empower growth and innovation, all while standing as a beacon of inspiration.
-            </p>
+            <p>As an agency, we're more than just creators. We're catalysts for transformation, fostering growth within the web design community and breaking barriers. Our commitment extends to revolutionary solutions that empower clients, while our alliances amplify voices for positive change. Our journey redefines digital potential, paving the way for a future where pixels empower growth and innovation, all while standing as a beacon of inspiration.</p>
           </div>
         </StyledText>
 

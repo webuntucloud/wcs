@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Webuntu Cloud - Unleashing Digital Excellence',
     description:
-      'Andrew Michaels is a website designer who specialises in designing (and occasionally building) exceptional digital experiences.',
+      'Our mission is to create extraordinary web designs that propel our clients to digital success.',
     siteUrl: 'https://webuntu.cloud', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@webuntucloudsolutions',

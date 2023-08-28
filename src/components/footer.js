@@ -106,7 +106,7 @@ const Footer = () => {
 
         <StyledCredit tabindex="-1">
         <a href="">
-          <div>Built & Designed by Andrew Michaels. All Rights Reserved.</div>
+          <div>Copyright © 2023 Webuntu Cloud. Made with ❤️ in South Africa.</div>
 
           
         </a>
