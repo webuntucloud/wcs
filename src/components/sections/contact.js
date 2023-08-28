@@ -57,11 +57,10 @@ const Contact = () => {
     <StyledContactSection id="contact" ref={revealContainer}>
       <h2 className="numbered-heading overline">What’s Next?</h2>
 
-      <h2 className="title">Get In Touch</h2>
+      <h2 className="title">Let's Connect!</h2>
 
       <p>
-        My inbox is always open for new opportunities.
-        Whether you have a project for me or just want to say hi, I’ll try my best to get back to you!
+      I'm actively seeking fresh avenues for collaboration and growth, and my inbox is your direct line to innovation. Whether you're seeking answers, aiming to exchange ideas, or simply want to extend a friendly greeting, I'm committed to swift and meaningful responses. Currently, I'm on the lookout for exciting new projects, so if you're keen on crafting something remarkable together, don't hesitate to reach out! 🚀
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>

@@ -58,24 +58,23 @@ const Hero = () => {
     return () => clearTimeout(timeout);
   }, []);
 
-  const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Andrew Michaels.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const one = <h1>Welcome to</h1>;
+  const two = <h2 className="big-heading">Webuntu Cloud.</h2>;
+  const three = <h3 className="big-heading">Unleashing Digital Excellence.</h3>;
   const four = (
     <>
       <p>
-        I’m a website designer specialising in designing (and occasionally building) exceptional
-        digital experiences. Currently, I’m focused on building accessible and human-centered products.
+      We're not just designers; we're creators of digital experiences that redefine the norm. From a team driven by passion and possibility, we craft designs that empower businesses and individuals worldwide. Join us in shaping a digital future that knows no limits.
       </p>
     </>
   );
   const five = (
     <a
       className="email-link"
-      href="tel:+27 63 977 4523"
+      href="tel:+27 61 602 2377"
       target="_blank"
       rel="noreferrer">
-      Call Us!
+      Get in Touch
     </a>
   );
 
