@@ -60,7 +60,7 @@ const Contact = () => {
       <h2 className="title">Let's Connect!</h2>
 
       <p>
-      I'm actively seeking fresh avenues for collaboration and growth, and my inbox is your direct line to innovation. Whether you're seeking answers, aiming to exchange ideas, or simply want to extend a friendly greeting, I'm committed to swift and meaningful responses. Currently, I'm on the lookout for exciting new projects, so if you're keen on crafting something remarkable together, don't hesitate to reach out! 🚀
+      We're actively seeking fresh avenues for collaboration and growth, and our inbox is your direct line to innovation. Whether you're seeking answers, aiming to exchange ideas, or simply want to extend a friendly greeting, we're committed to swift and meaningful responses. Currently, we're on the lookout for exciting new projects, so if you're keen on crafting something remarkable together, don't hesitate to reach out! 🚀
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>
