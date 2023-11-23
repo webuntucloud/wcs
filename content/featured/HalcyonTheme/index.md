@@ -2,7 +2,7 @@
 date: '1'
 title: 'Custom Kitchens'
 cover: './halcyon.png'
-external: 'https://pascal538.wixsite.com/'
+external: 'https://pascal538.wixsite.com/website'
 tech:
   - Wix
 ---
